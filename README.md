@@ -1,4 +1,4 @@
-# Naukri Profile Updater
+# Naukri Profile Update
 
 **Objective:**  
 Automatically refresh your Naukri profile daily to update the "last updated" timestamp. This helps improve your visibility to recruiters and potentially increases your chances of being shortlisted for job opportunities.
